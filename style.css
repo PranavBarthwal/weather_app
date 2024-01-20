@@ -13,13 +13,13 @@ body{
     justify-content: center;
     align-items: center;
     
-    background-image: linear-gradient(rgb(0, 0, 0), rgb(218, 0, 252));
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(70, 47, 222, 0.995));
 }
 
 .container{
     width: 400px;
     height: min-content;
-    background-color: #ff000000;
+    background-color: #0800ff12;
     border-radius: 12px;
     padding: 28px;
 }
